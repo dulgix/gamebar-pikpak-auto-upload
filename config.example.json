@@ -1,0 +1,9 @@
+{
+  "capture_folder": "C:\Users\YOUR_WINDOWS_USER\Videos\Captures",
+  "rclone_remote": "YOUR_RCLONE_REMOTE_NAME",
+  "remote_folder": "clips",
+  "rclone_path": null,
+  "scan_interval_seconds": 60,
+  "min_file_age_seconds": 60,
+  "extensions": [".mp4"]
+}

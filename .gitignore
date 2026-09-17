@@ -1,0 +1,12 @@
+# Personal configuration and credentials
+config.json
+rclone.conf
+
+# Runtime files
+uploader.log
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
